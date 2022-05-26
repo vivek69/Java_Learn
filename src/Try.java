@@ -1,6 +1,8 @@
 
 public class Try {//this is try class by vivek
-
+<<<<<<< .minepublic class Try {//this is try class by vivek
+=======public class Try {//this is try class by bhardwajkaku
+>>>>>>> .theirs
 	/**
 	 * @param args
 	 */
@@ -9,9 +11,7 @@ public class Try {//this is try class by vivek
 		String as="ant";
 System.out.println("value=="+as);
 System.out.println("I m change");
-//done
-//test
-
+//done//done test
 
 	}
 
