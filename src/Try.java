@@ -1,5 +1,5 @@
 
-public class Try {
+public class Try {//this is try class by kaku
 
 	/**
 	 * @param args
@@ -9,6 +9,9 @@ public class Try {
 		String as="ant";
 System.out.println("value=="+as);
 System.out.println("I m change");
+
+
+
 	}
 
 }
